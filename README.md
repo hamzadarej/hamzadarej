@@ -1,7 +1,7 @@
 ### Hi I'am Hamza 👋
 - 🌱 I’m currently enjoying learning JavaScript,Css,Html
 - 📫  How to reach me: darejhamza@gmail.com
-- ⚡ Fun fact: I love Math https://github.githubassets.com/images/icons/emoji/unicode/1f601.png
+- ⚡ Fun fact: I love Math .
 
 
 <!--

@@ -1,6 +1,7 @@
-### Hi I'am Hamza 👋\
+### Hi I'am Hamza 👋
 - 🌱 I’m currently enjoying learning JavaScript,Css,Html
 - 📫  How to reach me: darejhamza@gmail.com
+- ⚡ Fun fact: I love Math :girin:
 
 
 <!--

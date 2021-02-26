@@ -1,6 +1,6 @@
 ### Hi I'am Hamza 👋\
 - 🌱 I’m currently enjoying learning JavaScript,Css,Html\
-- -  How to reach me: [📫](darejhamzaQgmail.com)
+- 📫  How to reach me: [Gmail](darejhamza@gmail.com)
 
 
 <!--

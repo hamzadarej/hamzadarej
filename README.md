@@ -1,4 +1,4 @@
-### Hi I'am Hamza 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>
 - 🌱 I’m currently enjoying learning JavaScript,Css,Html,React
 - 📫  How to reach me: darejhamza@gmail.com
 - ⚡ Fun fact: I love Math .

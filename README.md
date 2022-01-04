@@ -6,7 +6,7 @@
   
   ## 🙋‍♂️ About Me:
 - 🔭 Finished one year course Full stack Js (MERN Stack)
-- 🌱 I’m currently learning SQL and next.js on my own 
+- 🌱 I’m currently learning SQL and next.js 
 - 📫  How to reach me: darejhamza@gmail.com
 - ⚡ Fun fact: I love Math .
 

@@ -5,8 +5,8 @@
   
   
   ## 🙋‍♂️ About Me:
-- 🔭 Finished one year course Full stack Js (MERN Stack)
-- 🌱 I’m currently learning SQL and next.js 
+- 🔭 Finished trainingcourse Full stack Js (MERN Stack)
+- 🌱 I’m currently working as Frontend Developer (React) 
 - 📫  How to reach me: darejhamza@gmail.com
 - ⚡ Fun fact: I love Math .
 

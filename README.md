@@ -6,7 +6,7 @@
   
   ## 🙋‍♂️ About Me:
 - 🔭 Finished trainingcourse Full stack Js (MERN Stack)
-- 🌱 I’m currently working as Frontend Developer (React) 
+- 🌱 I’m currently working as Profissionel Software Developer (React) 
 - 📫  How to reach me: darejhamza@gmail.com
 - ⚡ Fun fact: I love Math .
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
   <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
+  <a href="https://icon" <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fastrojs&psig=AOvVaw1zXXBsGFDSFGNuVUrSZsV7&ust=1729891983884000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDouIL8p4kDFQAAAAAdAAAAABAE"/></a>
   
     
 </p>

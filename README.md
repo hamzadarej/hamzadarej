@@ -9,7 +9,7 @@
 - 🌱 I’m currently working as Profissionel Software Developer (React) 
 - 📫  How to reach me: darejhamza@gmail.com
 - ⚡ Fun fact: I love Math .
-- <a href='https://vite-portfolio-five-nu.vercel.app/' target='_blank'>PortFolio 👀</a>
+- <a href='https://vite-portfolio-five-nu.vercel.app/' target="_blank">PortFolio 👀</a>
 
 
 <!--
